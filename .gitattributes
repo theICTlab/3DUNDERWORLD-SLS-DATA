@@ -1,0 +1,2 @@
+alexander filter=lfs diff=lfs merge=lfs -text
+arch filter=lfs diff=lfs merge=lfs -text
